@@ -1,28 +1,46 @@
-# Project brief
+# Participant commissioning brief
 
-## Appointment
+**Mettelo Business Analyst Project Studio · MTL-BA-041 · v2.0 · Stage 1**  
+**Appointment:** Business Analyst · **Engagement window:** 6 July–28 August 2026
 
-You are the Business Analyst assigned to Northbank Home & Style Ltd. Refund complaints are increasing across online and store purchases. Leadership suspects that a replacement returns platform will solve delays, while teams disagree about when a refund becomes ready.
+## Your commission
 
-The sponsor's preferred purchase is a hypothesis. Establish the business need, investigate conflicting accounts and make a defensible recommendation. Budget: £80,000 one-off and £15,000 annual operating cost; eight-week analysis engagement, followed by a separately authorised pilot. No production implementation is authorised by this exercise.
+Northbank Home & Style needs an evidence-based decision about improving its customer returns and refund service before autumn trading. The sponsor favours a new system. Other stakeholders dispute whether technology, working practices, staffing, policy interpretation, information quality or several factors explain the problem.
 
-## Boundary
+You are responsible for analysis, elicitation, facilitation and a defensible recommendation. You are not the legal adviser, funding approver, product purchaser or production delivery team. Establish who must validate and decide rather than assuming a senior person's preference settles a requirement.
 
-Investigate request to refund confirmation for UK consumer purchases, including postal returns and online purchases returned in store. Include exceptions and communication. Exclude international expansion, payment-provider replacement and product pricing.
+Start with the [business context and sponsor brief](../business_context/BUSINESS_CONTEXT_AND_SPONSOR_BRIEF.md). It supplies a substantial organisational picture, management information, commissioned perimeter, investment assumptions and unanswered questions. It is source material, not your finished problem or scope statement.
 
-## Expected participant work
+## Decision to support
 
-Produce a problem/scope statement, elicitation plan and stakeholder analysis; current-state and future-state models; evidence-based root-cause analysis; requirements and business rules; prioritisation and traceability; options appraisal with costs/assumptions; acceptance criteria and UAT approach; change impacts, transition controls and benefits evaluation. Choose useful notation rather than completing templates mechanically.
+By the final playback, leadership needs to decide what intervention to fund and sequence, what a limited October pilot could credibly include, which conditions must precede it and how the organisation would evaluate value. A recommendation may favour current tools, changed working practices, a purchased capability, a sequence of changes or a qualified deferral. No option is prescribed.
 
-## Success
+Make clear which findings are observed, inferred, disputed or unknown. Distinguish business value from the attractiveness of a feature. Explain what evidence would change your recommendation.
 
-Sponsor aspiration: fewer repeat contacts and faster refunds without weaker fraud controls. The starting proposal is 90% of authorised refunds submitted within two working days; its start point differs from customer-visible end-to-end elapsed time.
+## Investigation boundary
 
-Agree definitions, denominators, baseline period, exclusions and ownership before treating targets as approved. Quantify uncertainty and distinguish evidence from stakeholder opinion.
+The initial commission covers UK consumer goods refund requests from first contact through evidence/custody, eligibility/authority, instruction, rejection follow-up and customer confirmation. It includes cross-channel returns, exceptions, roles, communications, information and operational adoption.
 
-## Decisions
+Exclusions and dependencies are stated in the sponsor brief. Revisit them as evidence arrives, but do not quietly expand the engagement. Record a scope decision if the sponsor changes the boundary. No production access, real customer data or implementation authority is supplied.
 
-Sponsor approves scope/funding. Operational owners validate working practices. Relevant control owners approve policy and safety/security interpretations. The BA facilitates and records decisions; the BA cannot waive controls.
+## What professional BA work should demonstrate
 
----
-Mettelo Business Analyst Project Studio | MTL-BA-041 | Fictional simulation source | Release 1
+Your portfolio should show a connected chain from business need to stakeholder evidence, process understanding, requirements and rules, options, priorities, change impacts, acceptance evidence and intended value. Use models and artefacts that help make the decision.
+
+You should be able to defend why a requirement matters, how it was elicited, what its ambiguity is, who should validate it, what constraint affects it and how it could be tested. Include business, functional, non-functional and transition needs rather than treating all analysis as user stories.
+
+Work through open and failed cases as well as completed ones. Investigate the relationship between customer experience, internal clocks, goods custody and payment events. Do not mistake an intake label, missing field or supplier claim for a validated cause.
+
+## Evidence and validation limits
+
+The sources deliberately preserve conflicting statements and missing facts. Request evidence with a purpose. If the facilitator cannot provide it, record what remains unknown and how that affects the decision. Do not invent approvals, customer research or test success.
+
+The supplied August prototype is a disputed experiment. It is not necessarily your proposed solution. Define your own acceptance approach before assessing its results and state where the evidence cannot support a conclusion.
+
+## Required working model and handover
+
+Use a separate participant/team repository and follow the [submission guidelines](../submission/SUBMISSION_GUIDELINES.md). Use issues, branches, meaningful commits, pull requests and contribution evidence. Retain decision snapshots before later releases. Do not push answers to this master.
+
+The [delivery guide](DELIVERY_GUIDE.md), [timeline](PROJECT_TIMELINE.md) and [assessment criteria](ASSESSMENT_CRITERIA.md) explain the release gates, expected coverage and quality standard. Final handover consists of the delivery repository URL, tagged version and indexed recommendation/evidence portfolio through Mettelo's cohort route.
+
+Success means that a decision maker can understand the recommendation, follow the material evidence, see unresolved risks and know what must happen next. A large document set without that reasoning is insufficient.
