@@ -1,6 +1,6 @@
 # Mettelo BA-041 — separate delivery repository and submission guidelines
 
-**Mettelo Business Analyst Project Studio · MTL-BA-041 · v2.0**  
+**Mettelo Business Analyst Project Studio · MTL-BA-041 · aligned pathway edition**  
 This guide adapts the established Mettelo submission and team-repository standards linked in [source provenance](../reference/OFFICIAL_REFERENCES_AND_SOURCE_PROVENANCE.md). The master is a resource library, not a place to submit participant answers.
 
 ## 1. Create the delivery repository
@@ -41,17 +41,25 @@ Each contributor uses their own GitHub account. Keep CONTRIBUTIONS.md current wi
 
 For individual delivery, identify your own work, source material, external assistance and any simulated/unavailable validation. A stakeholder interview supplied by Mettelo is source evidence, not an interview you personally conducted with a real client.
 
-## 6. Required pathway outputs
+## 6. Exact required team handover
 
-- **P1:** Problem statement, scope and evidence-backed baseline workbook.
-- **P2:** AS-IS swimlane maps and root-cause analysis.
-- **P3:** Policy clarification and operational control proposal.
-- **P4:** TO-BE process maps and operational procedure outline.
-- **P5:** Options appraisal and proportionate business case.
-- **P6:** Change impact assessment, adoption plan and benefits measurement plan.
-- **P7:** Sponsor decision paper and final portfolio index.
+**Decision the team supports:** Which operational changes should Northbank fund, in what order and under whose ownership, to reduce avoidable delay and inconsistent decisions?
 
-Index each task and its acceptance criteria in FINAL_SUBMISSION.md. These replace generic end-to-end portfolio requirements. The endpoint is: An investment and operational change recommendation. Implementation and system UAT are outside this commission.
+**Audience:** Operations, Finance, store and warehouse leaders.
+
+| Task | Required content | Weight |
+|---|---|---|
+| P1 | Problem statement; scope; baseline workbook with calculations, cohort/cutoff, source references and limitations. | 20% |
+| P2 | Readable AS-IS swimlane maps for store/online routes; root-cause analysis with evidence and untested hypotheses. | 20% |
+| P3 | Policy clarification log; proposed operational controls; disputed thresholds and named decision roles, with unresolved approvals. | 15% |
+| P4 | TO-BE maps; operational procedure outline; explanation of changes, hand-offs, exceptions and responsibilities. | 15% |
+| P5 | At least three credible options; cost assumptions and sensitivity; recommendation within released constraints. | 15% |
+| P6 | Role-level change impact assessment; adoption/training sequence; benefits definitions, owners and measurement plan. | 10% |
+| P7 | Sponsor decision paper; playback of no more than ten slides or equivalent; indexed recommendation and outstanding decisions. | 5% |
+
+Use [DELIVERABLES_CHECKLIST.md](DELIVERABLES_CHECKLIST.md) to check package content, suggested paths and final repository records. The [task specification](../project/TASKS_DELIVERABLES_AND_ACCEPTANCE_CRITERIA.md) defines four analytical acceptance criteria per task. The final submission index must have a row for each task ID and link all required components. Grouping documents is acceptable; omitted analysis is not.
+
+No replacement-system FRD, detailed interface specification, agile product backlog, executable system or full system UAT portfolio is required. Participants do not issue legal determinations or process real refunds.
 
 ## 7. Reproduce and review
 

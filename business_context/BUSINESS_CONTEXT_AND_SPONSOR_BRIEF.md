@@ -1,5 +1,3 @@
-> **Commission note:** This is historical fictional source evidence. Requests for full lifecycle outputs or pilot delivery are stakeholder ambitions to evaluate. The assessed scope and endpoint are defined in [the current project brief](../project/PROJECT_BRIEF.md). Later pilot evidence is optional and is not participant-executed testing.
-
 # Northbank Home & Style — business context and sponsor initiation brief
 
 **Mettelo Business Analyst Project Studio · MTL-BA-041 · Source pack v2.0**  
@@ -65,51 +63,67 @@ The customer impact is wider than the arithmetic: repeated explanations, inconsi
 
 If nothing changes, the organisation could enter peak trading with larger unresolved queues, more manual reconciliation and an inconsistent customer promise. A poorly chosen replacement could also consume scarce delivery capacity, create another source of conflicting statuses and leave process or policy issues intact. Finance wants both risks considered. The BA is not asked to assert that doing nothing will cost a particular amount without evidence.
 
-## 7. Sponsor brief — commissioned work
 
-**Sponsor:** Helen Ward, Operations Director; reports to the Managing Director and chairs the weekly operational change group. Helen can recommend investment and approve the analysis scope. The board approves capital commitments; Finance and the relevant control owners retain their normal authorities.
+## Business need for this commission
 
-**Reason for initiation:** establish a credible explanation of the service issues, agree the change needed, and choose an affordable intervention before the autumn delivery window closes.
+Returns move through stores, warehouses, customer service and Finance with inconsistent evidence, policy interpretation and hand-offs. Customers chase refunds while staff cannot always distinguish an authorised case, an accepted payment instruction and money received by the customer. Management sees delay but does not yet know which causes can be removed through working practices and controls.
 
-**Sponsor's current understanding:** “Customers cannot see one reliable status and our teams repeat work. I think a central workflow product will give us control. I do not know how much of the delay is inspection, policy interpretation, an identification problem, payment failures or simply the wrong measure.”
+A process improvement decision must come before a system purchase. A new portal could simply make an unclear process more visible, while staff effort and unresolved payment exceptions remain. The business needs an evidence-backed proposal for how work and accountability should change.
 
-**Desired outcomes, subject to validation:**
+## Illustrative business situation to investigate
 
-- Customers receive accurate, comprehensible progress information and know the next action.
-- Refund handling meets applicable obligations and the agreed customer promise for each relevant case type.
-- Staff can identify ownership and unresolved exceptions without recreating the case.
-- Finance can reconcile approved amounts and provider outcomes with auditable evidence.
-- Operational improvements remain usable across busy branches, Service and Warehouse.
-- Any investment has an explicit cost, adoption assumption, owner and evaluation method.
+A customer starts a return online or takes goods to a store. A colleague captures the request; another team may receive and inspect the goods; an authorised person decides the refund; Finance passes an instruction to the payment provider. If a reference is missing, an instruction is rejected or the policy route is disputed, the case may return to an earlier queue. Customer Service sees a complaint but may not see a confirmed settlement. This is a business situation to investigate, not an approved process map.
 
-Helen's proposed service ambition is for 90% of **authorised central refunds** to reach an accepted provider instruction within two working days. Aisha considers that too narrow to represent customer experience. Priya questions what should count as an authorisation when evidence is disputed. The target is a sponsor proposal, not an approved business requirement or a legal deadline. The BA must bring a proposed measurement set and definitions for stakeholder agreement.
+This is a source scenario. Your team must analyse it; it is not an approved process, detailed use case or designed solution.
 
-**Executive concerns:** missed peak readiness; repeated fraud or duplicate payment; misleading web wording; disruption to store trading; an unaffordable recurring licence; and a superficially successful pilot that transfers work to another team.
+## Sponsor commission and authority
 
-**Initial funding assumptions:** £80,000 one-off including analysis, configuration, integration, migration, testing and internal backfill; annual incremental operating ceiling £15,000. Amounts exclude recoverable VAT. £8,000 of the one-off envelope is already committed to analysis/support, leaving £72,000 uncommitted at appointment. Do not add the £8,000 again when costing options. Existing business-as-usual salaries are not incremental cash costs unless backfill or additional capacity is requested.
+Helen, the project sponsor commissions your team as process improvement business analysts. The decision is: **Which operational changes should Northbank fund, in what order and under whose ownership, to reduce avoidable delay and inconsistent decisions?**
 
-**Schedule:** eight-week analysis engagement from 6 July to 28 August 2026. Sponsor decision on the preferred approach is expected at the final playback, with earlier scope and priority decisions as evidence emerges. The desired operational pilot is 12 October; November freeze remains. The August supplier experiment supplied later is an isolated synthetic demonstration, not the October operational pilot.
+The requested handover is: **A process improvement recommendation, proportionate business case and operational transition/benefits plan for leadership decision.**
 
-**Who Helen initially wants involved:** Service, Warehouse, Finance, Ecommerce, Store Operations, IT and Compliance. Helen asks Jo Evans to represent branches but acknowledges that one store cannot speak for all operating conditions. Customer voices, branch colleagues outside Jo's store, reconciliation staff, the payment provider and information governance may require further involvement. Their approval must not be assumed.
+The sponsor wants faster refunds, Finance wants reliable reconciliation, stores need workable delegation, and warehouse colleagues need manageable inspection work. A faster step is not automatically a better end-to-end outcome if it increases errors or shifts work to another team.
 
-## 8. Commissioned perimeter and exclusions
+The sponsor can request analysis but cannot substitute for Finance, policy, legal, security and funding owners. Identify material approvals and unknowns without fabricating named reviewers or sign-off.
 
-The initial investigation covers UK consumer goods refund requests from first contact through goods/evidence handling, eligibility/authority decisions, payment instruction, rejection follow-up and customer confirmation. It includes online purchases returned by post or to a store and store purchases returned in store. It includes exception handling, data/status ownership, reporting and operational adoption.
+## Scope and exclusions
 
-It does not commission international sales, business-to-business contracts, marketplace disputes, price changes, full warehouse redesign, replacement of the payment provider or a new ecommerce platform. Repair/replacement enquiries are relevant when distinguishing the appropriate customer route, but designing the entire repair supply chain is outside the initial funded perimeter. Any boundary change needs a recorded sponsor decision. This is the sponsor's initial perimeter, not the participant's completed scope analysis.
+**Included:** Store and online return-to-refund work, policy routing, authorisation, inspection, payment exceptions, reconciliation and customer status communication. Proposed systems changes may be dependencies, but the core work is operating-process improvement.
 
-## 9. Constraints, risks, assumptions and dependencies
+**Outside this assignment:** No replacement-system FRD, detailed interface specification, agile product backlog, executable system or full system UAT portfolio is required. Participants do not issue legal determinations or process real refunds.
 
-The nightly OrderHub export is available; a real-time write-back interface is not confirmed. Store staffing cannot be assumed to increase. Warehouse agency cover is expected to reduce by two shared shifts per week in August. Staff can normally attend one 45-minute workshop per week. Provider settlement timing is not fully controlled by Northbank.
+## Constraints and evidence limitations
 
-The sponsor assumes that existing order identifiers can link most records, that an October pilot can be contained to a small group and that the annual ceiling includes support. None is yet proven. Dependencies include supplier interface confirmation, a legally reviewed customer promise, Finance reconciliation approval, branch participation, role/access review and time for training and exception testing.
+The initial one-off planning envelope is £80,000, including £8,000 committed; the annual incremental ceiling is £15,000. Later released funding evidence may constrain the recommendation. Include internal effort, exclusions and recurring costs; a quote is not a complete business case.
 
-Known risk observations include uncontrolled policy copies, disagreement over when receipt occurs, missing references, ambiguous payment labels and insufficient evidence of customer settlement. These are management concerns, not a completed RAID log. Participants must investigate likelihood, impact, ownership and responses themselves.
+The learning commission lasts 6 cohort weeks. Original dates in operational records remain source history; later operational ambitions do not extend the assessed scope. Staff availability is limited: plan proportionate elicitation using supplied interviews and record follow-up questions when real access is unavailable.
 
-## 10. The decisions leadership needs
+The dataset is constructed, observed at its stated cutoff and incomplete for some business questions. An absent event is not always proof an event did not happen. Do not claim representative research, causality, approved targets or realised outcomes merely from these records. Use [the data guide](../evidence/DATA_GUIDE.md) and [source provenance](../reference/OFFICIAL_REFERENCES_AND_SOURCE_PROVENANCE.md).
 
-At the end of the engagement Helen expects a recommendation on whether to configure current tools, redesign working practices, add a limited workflow capability, purchase a replacement, sequence interventions or defer part of the change. She expects a defensible cost range, scope, priorities, implementation dependencies, readiness conditions and benefits evaluation proposal.
+## How the evidence supports the work
 
-The BA must make uncertainty visible. How much demand is avoidable? Which clocks matter for each purpose? Which decisions require different evidence or authority? Which system claims survive an exception-based demonstration? What can be achieved before peak without shifting risk to customers or colleagues? What information is still missing, and what decision can reasonably be made without it?
+| Evidence | Analytical purpose | Relevant tasks |
+|---|---|---|
+| Returns, payment attempts and contacts | Separate cases, transaction attempts and chasing activity; establish reproducible baseline measures. | P1–P3 |
+| Interviews, forms and business evidence | Understand actual hand-offs, disagreement and exceptions before modelling improvements. | P2–P4 |
+| Policies and technology context | Investigate delegation and payment constraints without assuming a new system is the answer. | P3–P5 |
+| Process investigation supplement | Challenge clocks, training capacity and operational ownership. | P2–P6 |
+| Challenge notices | Revise affordability, policy and implementation dependencies within the process recommendation. | P5–P7 |
 
-No document in this pack supplies an agreed problem statement, stakeholder assessment, process map, requirements catalogue or preferred solution. Those are the participant's work.
+## What leadership needs to receive
+
+Leadership can see which delays and policy gaps are evidenced, compare credible interventions and decide on accountable operational changes. Proposed outcome measures must define their clocks, denominators, owners and limitations; no achieved saving or improvement is supplied.
+
+| Task | Required handover content | Assessment weight |
+|---|---|---|
+| P1 | Problem statement; scope; baseline workbook with calculations, cohort/cutoff, source references and limitations. | 20% |
+| P2 | Readable AS-IS swimlane maps for store/online routes; root-cause analysis with evidence and untested hypotheses. | 20% |
+| P3 | Policy clarification log; proposed operational controls; disputed thresholds and named decision roles, with unresolved approvals. | 15% |
+| P4 | TO-BE maps; operational procedure outline; explanation of changes, hand-offs, exceptions and responsibilities. | 15% |
+| P5 | At least three credible options; cost assumptions and sensitivity; recommendation within released constraints. | 15% |
+| P6 | Role-level change impact assessment; adoption/training sequence; benefits definitions, owners and measurement plan. | 10% |
+| P7 | Sponsor decision paper; playback of no more than ten slides or equivalent; indexed recommendation and outstanding decisions. | 5% |
+
+Use [the task specification](../project/TASKS_DELIVERABLES_AND_ACCEPTANCE_CRITERIA.md) for the four acceptance criteria per task and [the submission checklist](../submission/DELIVERABLES_CHECKLIST.md) for the exact handover package. These define the commission; historical stakeholder ambitions are inputs to evaluate, not extra mandatory portfolios.
+
+No preferred solution or completed learner artefacts are provided.
