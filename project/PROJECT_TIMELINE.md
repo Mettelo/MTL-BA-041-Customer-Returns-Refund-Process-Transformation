@@ -32,3 +32,20 @@ The final participant recommendation must distinguish an analysis decision, an e
 Save initiation, discovery/current-state, pre-change baseline, each change response and final assurance/recommendation versions in your own delivery repository. Use meaningful commits and pull requests rather than one end-of-project upload. A facilitator should release each notice only after the preceding impact response is recorded.
 
 If a review cannot validate an assumption, record its status and consequence. Missing approval is not supplied by the passage of a week. Participants may recommend escalation, conditional progress or deferral with reasons. Final submission follows the separate-repository model in [submission guidelines](../submission/SUBMISSION_GUIDELINES.md).
+
+## Concrete task hand-offs
+
+Follow the [task/output/acceptance contract](TASKS_DELIVERABLES_AND_ACCEPTANCE_CRITERIA.md):
+
+| Point | Required task output |
+|---|---|
+| Week 1 | D01 initiation brief and initial RAID |
+| Week 2 | D02 stakeholder and elicitation report |
+| Week 3 | D03 current-state model and reproducible evidence analysis; start D04 |
+| Week 4 | D04 requirements/solution acceptance criteria; D05 domain models; D06 future-state/options; D07 priority/traceability baseline |
+| Each Stage 5 notice | D08 impact response and versioned updates |
+| Before Stage 6 results | D09 independent UAT plan/scenarios |
+| After 24 August source release | D10 observation/issues assessment and readiness recommendation |
+| Week 8 final playback | D11 benefits/transition evaluation and D12 executive handover, indexed/tagged delivery repository |
+
+The task contract names the expected files and checks. Tasks can iterate as evidence evolves; retain earlier versions rather than present late evidence as known at initiation.
