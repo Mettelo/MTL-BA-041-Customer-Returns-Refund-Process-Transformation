@@ -1,5 +1,0 @@
-issue_id,return_id,reported_by,reported_date,observation,status
-I001,R003,store,2026-06-08,online_return_not_visible_at_depot,unresolved
-I002,R006,warehouse,2026-06-18,parcel_label_missing_return_id,resolved_2026_06_24
-I003,R008,finance,2026-06-24,provider_rejected_account_token,open
-I004,R004,service,2026-06-16,customer_given_conflicting_clocks,open
