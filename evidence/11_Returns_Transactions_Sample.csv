@@ -1,0 +1,13 @@
+return_id,order_id,purchase_channel,return_route,reason,request_date,received_date,inspection_date,authorised_date,provider_submitted_date,amount_gbp,status
+R001,O001,online,post,change_of_mind,2026-06-01,2026-06-04,2026-06-05,2026-06-05,2026-06-08,49.99,submitted
+R002,O002,store,store,faulty,2026-06-03,2026-06-03,2026-06-03,2026-06-03,2026-06-03,24.50,submitted
+R003,O003,online,store,change_of_mind,2026-06-05,2026-06-06,2026-06-10,2026-06-12,2026-06-15,129.00,submitted
+R004,O004,online,post,faulty,2026-06-08,2026-06-10,2026-06-16,2026-06-17,2026-06-19,89.00,submitted
+R005,O005,online,post,change_of_mind,2026-06-11,2026-06-15,2026-06-16,2026-06-16,2026-06-17,35.00,submitted
+R006,O006,online,store,faulty,2026-06-15,2026-06-16,2026-06-24,,,179.00,awaiting_authorisation
+R007,O007,store,store,change_of_mind,2026-06-19,2026-06-19,2026-06-19,,,19.99,declined_policy
+R008,O008,online,post,faulty,2026-06-18,2026-06-22,2026-06-23,2026-06-23,2026-06-24,65.00,provider_failed
+R009,O009,online,post,change_of_mind,2026-06-25,,,,,42.00,awaiting_goods
+R010,O010,online,post,faulty,2026-06-26,2026-06-29,2026-06-30,,,210.00,awaiting_authorisation
+R011,O011,store,store,faulty,2026-06-27,2026-06-27,2026-06-27,2026-06-27,2026-06-29,15.00,submitted
+R012,O012,online,post,change_of_mind,2026-06-28,,,,,79.00,awaiting_goods

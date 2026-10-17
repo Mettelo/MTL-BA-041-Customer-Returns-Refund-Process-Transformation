@@ -1,0 +1,6 @@
+complaint_id,return_id,logged_date,theme,repeat_contacts,outcome
+C001,R003,2026-06-12,conflicting_store_advice,2,open
+C002,R004,2026-06-15,no_status_update,3,resolved
+C003,R006,2026-06-22,parcel_not_matched,2,open
+C004,R008,2026-06-24,submitted_not_received,1,open
+C005,R004,2026-06-18,repeat_contact,1,resolved

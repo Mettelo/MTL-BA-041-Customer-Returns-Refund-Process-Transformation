@@ -1,0 +1,4 @@
+period,population,requests,authorised,provider_submitted,reported_mean_calendar_days,clock_start,clock_end
+2026-04,all_channels_monthly,1030,880,860,4.2,authorised_date,provider_submitted_date
+2026-05,all_channels_monthly,1120,935,910,4.8,authorised_date,provider_submitted_date
+2026-06,all_channels_monthly,1240,990,950,5.0,authorised_date,provider_submitted_date
